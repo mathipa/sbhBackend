@@ -116,3 +116,6 @@ C:\myprojects\sbhBackend\WebApi\sbhAPI\bin\System.Memory.xml
 C:\myprojects\sbhBackend\WebApi\sbhAPI\bin\System.Numerics.Vectors.xml
 C:\myprojects\sbhBackend\WebApi\sbhAPI\bin\System.Runtime.CompilerServices.Unsafe.xml
 C:\myprojects\sbhBackend\WebApi\sbhAPI\bin\System.Text.Encodings.Web.xml
+C:\myprojects\sbhBackend\WebApi\sbhAPI\bin\System.Web.Cors.dll
+C:\myprojects\sbhBackend\WebApi\sbhAPI\bin\System.Web.Http.Cors.dll
+C:\myprojects\sbhBackend\WebApi\sbhAPI\bin\System.Web.Http.Cors.xml
