@@ -7,9 +7,10 @@ namespace sbhAPI.Models
 {
     public class ClinicPractice
     {
-        public int Practice_No { get; set; }
+        public string ClinicPracticeid { get; set; }
+        public string PracticeNo { get; set; }
         public string Name { get; set; }
-        public string Tel_No { get; set; }
+        public string TelNo { get; set; }
         public string Addressline1 { get; set; }
         public string Addressline2 { get; set; }
         public string Addressline3 { get; set; }
